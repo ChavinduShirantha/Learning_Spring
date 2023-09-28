@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/O1_Spring_Core/pom.xml" />
         <option value="$PROJECT_DIR$/O2_Bean_Scope/pom.xml" />
+        <option value="$PROJECT_DIR$/O3_Bean_Life_Cycle/pom.xml" />
       </list>
     </option>
   </component>

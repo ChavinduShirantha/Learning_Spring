@@ -7,8 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="O1_Spring_Core" />
-        <module name="O3_Bean_Life_Cycle" />
-        <module name="O2_Bean_Scope" />
       </profile>
     </annotationProcessing>
   </component>

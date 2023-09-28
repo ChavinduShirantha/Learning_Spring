@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/O1_Spring_Core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O2_Bean_Scope/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O2_Bean_Scope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O3_Bean_Life_Cycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O3_Bean_Life_Cycle/src/main/resources" charset="UTF-8" />
   </component>
 </project>
