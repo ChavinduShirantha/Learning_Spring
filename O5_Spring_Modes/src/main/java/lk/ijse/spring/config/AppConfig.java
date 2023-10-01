@@ -17,6 +17,8 @@ public class AppConfig {
         System.out.println("AppConfig Instantiate");
     }
 
+    /*
+    Full Mode
     @Bean
     public PojoTwo pojoTwo() {
 //        Inter bean dependencies
@@ -33,4 +35,5 @@ public class AppConfig {
     public PojoThree pojoThree() {
         return new PojoThree();
     }
+    */
 }
