@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="O5_Spring_Modes" />
         <module name="O2_Bean_Scope" />
         <module name="O1_Spring_Core" />
         <module name="O3_Bean_Life_Cycle" />
