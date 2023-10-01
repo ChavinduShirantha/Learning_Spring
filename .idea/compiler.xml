@@ -11,6 +11,7 @@
         <module name="O1_Spring_Core" />
         <module name="O3_Bean_Life_Cycle" />
         <module name="O4_DI_In_Spring" />
+        <module name="O6_Spring_Configurations" />
       </profile>
     </annotationProcessing>
   </component>
