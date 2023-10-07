@@ -10,6 +10,7 @@
         <module name="O9_Spring_Web_MVC" />
         <module name="O8_Spring_Environment" />
         <module name="O4_DI_In_Spring" />
+        <module name="O10_Controllers" />
         <module name="O5_Spring_Modes" />
         <module name="O2_Bean_Scope" />
         <module name="O1_Spring_Core" />
