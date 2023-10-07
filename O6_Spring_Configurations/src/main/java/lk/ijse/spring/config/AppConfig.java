@@ -11,8 +11,8 @@ import org.springframework.context.annotation.Import;
  * created : 10/7/2023-11:01 AM
  **/
 @Configuration
-@ComponentScan(basePackages = "lk.ijse.spring.pojo")
-@Import({ConfigTwo.class,ConfigThree.class})
+@ComponentScan(basePackages = "lk.ijse.spring")
+//@Import({ConfigTwo.class,ConfigThree.class})
 public class AppConfig {
     public AppConfig() {
         System.out.println("AppConfig Instantiate");
