@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="O7_Value_Injection" />
+        <module name="O9_Spring_Web_MVC" />
         <module name="O8_Spring_Environment" />
         <module name="O4_DI_In_Spring" />
         <module name="O5_Spring_Modes" />
