@@ -18,6 +18,7 @@ public class AppInitializer {
         ctx.refresh();
         ctx.registerShutdownHook();
 
+/*
 
         System.out.println("=========================================================");
 
@@ -38,6 +39,7 @@ public class AppInitializer {
 
         System.out.println("=========================================================");
 
+*/
 
     }
 }
