@@ -1,5 +1,6 @@
 package lk.ijse.spring.config;
 
+import lk.ijse.spring.pojo.PojoOne;
 import lk.ijse.spring.pojo.PojoThree;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -15,8 +16,9 @@ public class AppConfig {
     public AppConfig() {
         System.out.println("AppConfig Instantiate");
     }
+
     @Bean
-    public PojoThree pojoThree(){
-        return new PojoThree();
+    public PojoOne pojoOne() {
+        return new PojoOne();
     }
 }
