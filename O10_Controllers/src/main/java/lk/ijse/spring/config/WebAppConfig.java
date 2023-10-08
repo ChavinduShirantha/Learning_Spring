@@ -12,7 +12,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
  **/
 @EnableWebMvc
 @Configuration
-@ComponentScan(basePackages = "lk.ijse.spring.pojo")
+@ComponentScan(basePackages = {"lk.ijse.spring.pojo","lk.ijse.spring.controller"})
 public class WebAppConfig {
     public WebAppConfig(){
         System.out.println("WebAppConfig Instantiated");
